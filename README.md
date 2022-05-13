@@ -1,6 +1,6 @@
 Instagram full stack app
 
-#Stack:
+# Stack:
 
 - Frontend: NextJS
 - Backend: Golang, postgres, redis, graphql
